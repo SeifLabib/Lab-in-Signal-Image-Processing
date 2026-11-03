@@ -1,3 +1,4 @@
 *.tar
 .DS_Store
 __pycache__/
+Lab2/data/INRIAPerson
